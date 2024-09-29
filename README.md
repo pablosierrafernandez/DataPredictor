@@ -1,6 +1,10 @@
-Here’s a README template for your project, "Data Predictor," tailored to your specifications and excluding any mention of agents:
-
 # **Data Predictor: AI-Powered Data Analysis Tool**
+![intro](https://github.com/user-attachments/assets/e88699c7-50f4-4dbb-8896-026e1416c6bd)
+
+![DataPredictor-1](https://github.com/user-attachments/assets/d7464bb7-9f2f-4aba-9ac7-787fb9c99ef5)
+![DataPredictor-2](https://github.com/user-attachments/assets/2d9c32f3-e823-432b-b69a-9bf3cbc9549a)
+![DataPredictor-3](https://github.com/user-attachments/assets/8835ce09-f2c8-4e72-acb5-6895e6a20736)
+
 
 ## Table of Contents
 
@@ -22,6 +26,8 @@ Here’s a README template for your project, "Data Predictor," tailored to your 
 ## Introduction
 
 Data Predictor is a web application designed to facilitate the analysis of CSV data using AI models. Users can upload their datasets, select target columns, and receive predictions powered by advanced AI algorithms.
+![screencapture-localhost-8080-2024-09-29-15_14_04](https://github.com/user-attachments/assets/2abef1a8-55b2-4c41-99bb-948483787557)
+
 
 ## Objective
 
@@ -42,7 +48,8 @@ The application consists of two main components: the backend and the frontend.
 - **Backend**: Built using FastAPI, the backend handles data uploads, processes the data, and returns predictions.
 - **Frontend**: Developed with Vue.js, the frontend provides an interactive user interface for uploading files and displaying predictions.
 
-![Architecture Diagram](path/to/architecture-image.png) <!-- Update with the correct path to your architecture image -->
+![DataPredictor](https://github.com/user-attachments/assets/5b1d5d68-d12b-4169-9b5c-cb35ec01138a)
+
 
 ## Requirements
 
@@ -125,12 +132,6 @@ To use the application, follow these steps:
 
     Open your browser and navigate to `http://localhost:8080` to use the application.
 
-### Automated Setup
-
-For an automated setup using Docker (if available):
-
-1. Ensure you have Docker installed.
-2. Build and run the Docker containers.
 
 ## Contributions
 
@@ -143,8 +144,6 @@ See the `LICENSE` file for details.
 
 ## Authors
 
-*   [@pablosierrafernandez](https://github.com/pablosierrafernandez): Researcher and developer of the project.
+*   [@pablosierrafernandez](https://github.com/pablosierrafernandez): Developer of the project.
 
----
 
-Feel free to modify any sections or add more details as needed! If you have any specific images or diagrams for the architecture, don't forget to include them in the appropriate section.
