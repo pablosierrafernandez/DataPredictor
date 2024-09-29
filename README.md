@@ -1,6 +1,15 @@
 # **Data Predictor: AI-Powered Data Analysis Tool**
 ![intro](https://github.com/user-attachments/assets/e88699c7-50f4-4dbb-8896-026e1416c6bd)
 
+
+**Demo**
+
+https://github.com/user-attachments/assets/a81d7afb-430b-4117-8093-17860a42f521
+
+
+[FULL HD VIDEO](https://drive.google.com/file/d/1ZSGu9606PYVxA3ALu4d8EbqjFZ1Y712Q/view?usp=drive_link)
+
+
 ![DataPredictor-1](https://github.com/user-attachments/assets/d7464bb7-9f2f-4aba-9ac7-787fb9c99ef5)
 ![DataPredictor-2](https://github.com/user-attachments/assets/2d9c32f3-e823-432b-b69a-9bf3cbc9549a)
 ![DataPredictor-3](https://github.com/user-attachments/assets/8835ce09-f2c8-4e72-acb5-6895e6a20736)
