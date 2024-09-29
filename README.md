@@ -17,8 +17,6 @@
     *   [Backend with FastAPI](#backend-with-fastapi)
     *   [Frontend with Vue.js](#frontend-with-vuejs)
 7.  [Usage Instructions](#usage-instructions)
-    *   [Manual Setup](#manual-setup)
-    *   [Automated Setup](#automated-setup)
 8.  [Contributions](#contributions)
 9.  [License](#license)
 10.  [Authors](#authors)
@@ -101,8 +99,6 @@ The frontend is designed to be responsive and user-friendly.
     ```
 
 ## Usage Instructions
-
-### Manual Setup
 
 To use the application, follow these steps:
 
